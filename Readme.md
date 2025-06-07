@@ -4,7 +4,7 @@ This project implements a Hotel Booking server using the Model Context Protocol 
 
 This server can be communicated with via standard input/output (stdio), typically by an MCP client or a compatible AI model.
 
-For more context and a detailed walkthrough, please refer to the [Medium blog post about this repository](YOUR_MEDIUM_BLOG_POST_LINK_HERE).
+For more context and a detailed walkthrough, please refer to the [Medium blog post about this repository](https://medium.com/@f.halukkicik/getting-started-with-mcp-building-your-first-hotel-booking-server-for-llms-ba90a436b218).
 
 ## Prerequisites
 
